@@ -14,3 +14,6 @@ class Solution:
 
         
         return count
+    
+# Solved:
+# https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/
